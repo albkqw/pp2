@@ -1,0 +1,5 @@
+x = int(1)   
+y = int(2.8) 
+z = int("3") 
+w = float(1) 
+s = str("s1")
