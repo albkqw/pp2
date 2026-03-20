@@ -1,0 +1,3 @@
+Laptop,23
+Keyboard,43
+Mouse,17
