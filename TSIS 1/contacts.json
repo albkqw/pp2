@@ -1,0 +1,164 @@
+[
+    {
+        "first_name": "Yerlan",
+        "last_name": "Tokayev",
+        "email": "yerlan.t@example.com",
+        "birthday": "2001-02-14",
+        "group": "Work",
+        "phone": "87014445566",
+        "type": "work"
+    },
+    {
+        "first_name": "Kamila",
+        "last_name": "Zhaparova",
+        "email": "kamila.z@example.com",
+        "birthday": "2004-06-21",
+        "group": "Friends",
+        "phone": "87025556677",
+        "type": "mobile"
+    },
+    {
+        "first_name": "Asel",
+        "last_name": "Muratkyzy",
+        "email": "asel.m@example.com",
+        "birthday": "2003-09-12",
+        "group": "Family",
+        "phone": "87036667788",
+        "type": "home"
+    },
+    {
+        "first_name": "Rustem",
+        "last_name": "Nurgaliyev",
+        "email": "rustem.n@example.com",
+        "birthday": "2000-11-03",
+        "group": "Other",
+        "phone": "87047778899",
+        "type": "mobile"
+    },
+    {
+        "first_name": "Sabina",
+        "last_name": "Yermekova",
+        "email": "sabina.y@example.com",
+        "birthday": "2005-01-19",
+        "group": "Friends",
+        "phone": "87058889900",
+        "type": "mobile"
+    },
+    {
+        "first_name": "Yasin",
+        "last_name": "Moldabek",
+        "email": "yasin.m@example.com",
+        "birthday": "2003-04-12",
+        "group": "Family",
+        "phone": "87081675383",
+        "type": "home"
+    },
+    {
+        "first_name": "Aldiyar",
+        "last_name": "Suleimen",
+        "email": "aldiyar.s@example.com",
+        "birthday": "2002-08-19",
+        "group": "Friends",
+        "phone": "87081675384",
+        "type": "mobile"
+    },
+    {
+        "first_name": "Malika",
+        "last_name": "Zhuman",
+        "email": "malika.z@example.com",
+        "birthday": "2004-11-07",
+        "group": "Work",
+        "phone": "87081675385",
+        "type": "work"
+    },
+    {
+        "first_name": "Timur",
+        "last_name": "Bekov",
+        "email": "timur.b@example.com",
+        "birthday": "None",
+        "group": null,
+        "phone": null,
+        "type": null
+    },
+    {
+        "first_name": "Dana",
+        "last_name": "Sadykova",
+        "email": "dana.s@example.com",
+        "birthday": "None",
+        "group": null,
+        "phone": null,
+        "type": null
+    },
+    {
+        "first_name": "Aigerim",
+        "last_name": "Tulegen",
+        "email": "aigerim.t@example.com",
+        "birthday": "None",
+        "group": null,
+        "phone": null,
+        "type": null
+    },
+    {
+        "first_name": "Madi",
+        "last_name": "Akhmetov",
+        "email": "madi.a@example.com",
+        "birthday": "None",
+        "group": null,
+        "phone": null,
+        "type": null
+    },
+    {
+        "first_name": "Dias",
+        "last_name": "Omarov",
+        "email": "dias.o@example.com",
+        "birthday": "None",
+        "group": null,
+        "phone": null,
+        "type": null
+    },
+    {
+        "first_name": "Nursultan",
+        "last_name": "Serik",
+        "email": "n.serik@example.com",
+        "birthday": "None",
+        "group": null,
+        "phone": null,
+        "type": null
+    },
+    {
+        "first_name": "Ali",
+        "last_name": "Khan",
+        "email": "ali.khan@example.com",
+        "birthday": "None",
+        "group": null,
+        "phone": null,
+        "type": null
+    },
+    {
+        "first_name": "Aruzhan",
+        "last_name": "Bektas",
+        "email": "aruzhan.b@example.com",
+        "birthday": "None",
+        "group": null,
+        "phone": null,
+        "type": null
+    },
+    {
+        "first_name": "Alina",
+        "last_name": "Kozlova",
+        "email": "alina.k@example.com",
+        "birthday": "None",
+        "group": null,
+        "phone": null,
+        "type": null
+    },
+    {
+        "first_name": "Zarina",
+        "last_name": "Iskakova",
+        "email": "zarina.i@example.com",
+        "birthday": "None",
+        "group": null,
+        "phone": null,
+        "type": null
+    }
+]
